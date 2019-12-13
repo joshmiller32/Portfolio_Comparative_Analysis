@@ -1,4 +1,4 @@
-# Portfolio Comparitive Analysis
+# Portfolio Comparative Analysis
 
 ![protfolio_analysis](./Images/portfolio-analysis.png)
 
